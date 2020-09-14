@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+Pillow
+requests
+boto3
+opencv-python
+scipy==1.4.1
