@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-matplotlib
-Pillow
-opencv-python
-scipy==1.4.1
